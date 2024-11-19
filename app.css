@@ -1,0 +1,39 @@
+@import '@nativescript/theme/css/core.css';
+@import '@nativescript/theme/css/default.css';
+
+.btn {
+    font-size: 18;
+    padding: 10;
+    margin: 10;
+    background-color: #2196F3;
+    color: white;
+    border-radius: 4;
+}
+
+.card {
+    background-color: white;
+    border-radius: 4;
+    margin: 8;
+    padding: 16;
+    elevation: 2;
+}
+
+.title {
+    font-size: 24;
+    font-weight: bold;
+    margin-bottom: 8;
+}
+
+.price {
+    font-size: 20;
+    color: #666;
+}
+
+.input {
+    font-size: 16;
+    padding: 10;
+    margin: 8;
+    border-width: 1;
+    border-color: #ccc;
+    border-radius: 4;
+}
